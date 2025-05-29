@@ -1,0 +1,7 @@
+/* //this outfit font has beeen imported from google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+*{
+  font-family: Outfit;
+}
+@import "tailwindcss";
