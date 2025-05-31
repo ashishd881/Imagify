@@ -1,6 +1,7 @@
 import React from 'react'
 import { stepsData } from '../assets/assets'
 
+
 function Steps() {
   return (
     <div className='flex flex-col items-center justify-center my-32'>
