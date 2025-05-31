@@ -6,11 +6,10 @@ import Testimonials from '../components/Testimonials'
 import GenerateBtn from '../components/GenerateBtn'
 import Footer from '../components/footer'
 
-
 function Home() {
   return (
     <div >
-    
+      
       <Header/>
       <Steps/>
       <Description/>

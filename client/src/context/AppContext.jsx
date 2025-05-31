@@ -6,7 +6,7 @@ export const AppContext = createContext()
 //for Context file we create app providerfunction
 
 const AppContextProvider = (props)=>{
-    const [user,setUser] = useState(!false)
+    const [user,setUser] = useState(false)
 
     const value = {
         user, setUser
